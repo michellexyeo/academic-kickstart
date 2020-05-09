@@ -33,7 +33,7 @@ education:
   - course: MSc. in Computational Statistics and Machine Learning 
     institution: University College London
     year: 2014
-  - course: BA in Statistics and Philosophy
+  - course: BA in Mathematical Statistics and Philosophy
     institution: University of Chicago
     year: 2013
 
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Michelle Yeo is a PhD student at the cryptography group at IST Austria supervised by Prof. Krzysztof Pietrzak.
+Michelle Yeo is a PhD student at the cryptography group at IST Austria supervised by [Prof. Krzysztof Pietrzak](https://ist.ac.at/en/research/pietrzak-group/).
