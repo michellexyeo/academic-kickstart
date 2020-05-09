@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "myeo@ist.ac.at".
+  link: 'myeo@ist.ac.at'  # For a direct email link, use "myeo@ist.ac.at".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.at/citations?user=L1Hg3dIAAAAJ&hl=en

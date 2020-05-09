@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I enjoy practising yoga in my free time. I go to [Mudralina Mindful Living](https://mudralina.com/)
+I enjoy practising yoga in my free time. I go to [Mudralina Mindful Living](https://mudralina.com/).
 
 I also enjoy painting in oil.
 
