@@ -53,9 +53,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Michelle Yeo is a PhD student at the cryptography group at IST Austria supervised by [Prof. Krzysztof Pietrzak](https://ist.ac.at/en/research/pietrzak-group/).
+Michelle Yeo is a PhD student at the [cryptography group](https://ist.ac.at/en/research/pietrzak-group/) at IST Austria supervised by [Prof. Krzysztof Pietrzak](http://pub.ist.ac.at/crypto/).
