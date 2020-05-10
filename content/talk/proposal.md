@@ -1,6 +1,6 @@
 +++
 date = "2020-01-20"
-title = "Qualification exam presentation"
+title = "Qualification exam presentation/PhD. proposal"
 abstract = ""
 abstract_short = ""
 event = "Qualification exam"
