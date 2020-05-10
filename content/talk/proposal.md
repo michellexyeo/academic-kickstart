@@ -1,9 +1,9 @@
 +++
-date = "2020-01-20T00:00:00"
+date = "2020-01-20"
 title = "Qualification exam presentation"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
+event = "Qualification exam"
 event_url = ""
 location = "Vienna, Austria"
 

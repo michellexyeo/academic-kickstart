@@ -90,7 +90,9 @@ address = {street = "Am Campus 1, IST Austria", city = "Klosterneuburg", region 
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = []
+contact_links = [
+{icon = "keybase", icon_pack = "fab", name = "mxyeo", link = "https://keybase.io/"},
+]
 
 ############################
 ## Social
