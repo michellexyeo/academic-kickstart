@@ -3,7 +3,7 @@ date = "2019-04-20"
 title = "Short lecture on aspects of Brownian Motion"
 abstract = ""
 abstract_short = ""
-event = "Mathematics Track Core Course"
+event = "IST Austria Mathematics Track Core Course"
 event_url = ""
 location = "Vienna, Austria"
 
