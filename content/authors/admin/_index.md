@@ -24,6 +24,7 @@ interests:
 - Rational crypto 
 - Leakage resilient crypto 
 - Blockchains
+- Complexity and computability theory 
 
 education:
   courses:
