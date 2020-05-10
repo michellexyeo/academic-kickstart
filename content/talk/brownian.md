@@ -10,7 +10,7 @@ location = "Vienna, Austria"
 selected = false
 math = true
 
-url_pdf = "static/files/bm.pdf"
+url_pdf = "files/bm.pdf"
 url_slides = ""
 url_video = ""
 
