@@ -51,5 +51,5 @@ subtitle = ""
  css_class = ""
 +++
 
-I enjoy practising yoga in my free time. I also enjoy painting in [oil](img/autogyro.jpg).
+In my free time I practise yoga. I also enjoy painting in [oil](img/autogyro.jpg), especially [portraits](img/portrait.JPG).
 
