@@ -1,4 +1,3 @@
-+++
 title = "Machine Learning in Fine Wine Price Prediction"
 
 # Date first published.
@@ -20,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Wine Economics*."
-publication_short = "In *Journal of Wine Economics*"
+publication_short = "In JWE"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -57,8 +56,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption 😄"
 
-+++
