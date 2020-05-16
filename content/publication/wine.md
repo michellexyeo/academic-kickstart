@@ -1,3 +1,4 @@
++++
 title = "Machine Learning in Fine Wine Price Prediction"
 
 # Date first published.
@@ -59,4 +60,4 @@ highlight = true
 #[header]
 #image = "headers/bubbles-wide.jpg"
 #caption = "My caption 😄"
-
++++
