@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Wine Economics*."
-publication_short = ""
+publication_short = "In *Journal of Wine Economics*"
 
 # Featured image thumbnail (optional)
 image_preview = ""
